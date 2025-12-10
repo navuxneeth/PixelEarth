@@ -1,0 +1,7 @@
+{
+  "name": "PixelEarth",
+  "description": "An 8-bit retro-styled satellite map explorer powered by Gemini Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
